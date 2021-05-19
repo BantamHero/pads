@@ -1,0 +1,26 @@
+.search {
+    width: 200px;
+    color: seagreen;
+    border: 2px solid seagreen;
+    border-radius: 20px 20px;
+    text-align: center;
+}
+
+.plus {
+    color: white;
+    width: 40px;
+    background-color: seagreen;
+    border: 2px solid seagreen;
+    text-align: center;
+    border-radius: 25px 25px;
+}
+
+.create {
+    color: white;
+    background-color: royalblue;
+    font-size: 16px;
+    text-align: center;
+    padding: 15px 32px;
+    display: inline-block;
+    box-shadow: 10px 5px 5px black;
+}
